@@ -8,7 +8,7 @@ Consultas y ejercicios SQL que practico mientras estudio Data Science en Platzi
 - Filtros y agrupaciones ( GROUP BY)
 - Uniones entre tablas ( JOIN)
   
-## AUTOR
+## Autor
 Juan José | Marketing & Data Analyst
 
 
